@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.2013chuqiu.com/root/ipainstall/blob/master/djw.ipa</string>
+					<string>https://github.com/yuhy2015/test/blob/master/djw.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.2013chuqiu.com/root/ipainstall/blob/master/57.png</string>
+					<string>https://github.com/yuhy2015/test/blob/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.2013chuqiu.com/root/ipainstall/blob/master/512.png</string>
+					<string>https://github.com/yuhy2015/test/blob/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
